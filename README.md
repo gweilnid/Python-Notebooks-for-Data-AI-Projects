@@ -67,5 +67,3 @@ Notebook využívá `requests` pro HTTP dotazy a `pandas` pro základní práci 
 ## Licenční a etické poznámky
 - Při používání OpenAI modelů dbejte na dodržení podmínek služby a bezpečné nakládání s API klíči.
 - Data z OpenF1 jsou veřejná, ale respektujte pravidla použití uvedená na stránkách poskytovatele.
-
-Pokud chcete repo rozšířit, vytvořte nový notebook nebo skript podle vlastních nápadů a aktualizujte tento README, aby noví uživatelé snadno pochopili účel projektu.
